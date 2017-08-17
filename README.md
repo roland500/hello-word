@@ -1,2 +1,2 @@
-# hello-word
+# hello_word
 My first repository
